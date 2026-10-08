@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/j-virajsinh5126/DAA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/j-virajsinh5126/DAA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,12 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
