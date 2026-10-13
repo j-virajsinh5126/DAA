@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/j-virajsinh5126/DAA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/j-virajsinh5126/DAA/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/j-virajsinh5126/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/j-virajsinh5126/DAA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/j-virajsinh5126/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/j-virajsinh5126/DAA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/j-virajsinh5126/DAA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/j-virajsinh5126/DAA/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/j-virajsinh5126/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Quicksort
 |  |
 | ------- |
