@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/j-virajsinh5126/DAA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/j-virajsinh5126/DAA/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/j-virajsinh5126/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1323-maximum-69-number](https://github.com/j-virajsinh5126/DAA/tree/master/1323-maximum-69-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/j-virajsinh5126/DAA/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/j-virajsinh5126/DAA/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
