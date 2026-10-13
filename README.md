@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/j-virajsinh5126/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/j-virajsinh5126/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/j-virajsinh5126/DAA/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/j-virajsinh5126/DAA/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/j-virajsinh5126/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
