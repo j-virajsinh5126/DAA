@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/j-virajsinh5126/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/j-virajsinh5126/DAA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/j-virajsinh5126/DAA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -74,8 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
