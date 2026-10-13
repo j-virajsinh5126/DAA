@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/j-virajsinh5126/DAA/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/j-virajsinh5126/DAA/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/j-virajsinh5126/DAA/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
 | ------- |
