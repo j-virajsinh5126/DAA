@@ -74,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/j-virajsinh5126/DAA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/j-virajsinh5126/DAA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/j-virajsinh5126/DAA/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/j-virajsinh5126/DAA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/j-virajsinh5126/DAA/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/j-virajsinh5126/DAA/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/j-virajsinh5126/DAA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
